@@ -38,7 +38,7 @@ It will generate a graphviz dot diagram on `topic_name` and return like this,
 
 # Team Members
 * Md. Ashraful Islam - imdashraful17@gmail.com
-* Zannatul Fedous Malih - zannatulferdousmaliha6@gmail.com
+* Zannatul Fedous Maliha - zannatulferdousmaliha6@gmail.com
 * Md. Farhan Ishraq - farhanishraq777@gmail.com
 * Abrar Mahmud Hasan - abrarhasan2003@gmail.com
 
