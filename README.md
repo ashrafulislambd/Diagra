@@ -1,5 +1,5 @@
 # Diagra Backend
-This is the backend for Diagra, a tool to generate diagrams and flowchart from natural language prompts. This is written using CrewAI, llama3, Django and Django REST Framework.
+This is the backend for Diagra, a tool to generate diagrams and flowchart from natural language prompts. This is written using CrewAI, llama3, Django and Django REST Framework. (The frontend project is available at https://github.com/ashrafulislambd/Diagra-frontend)
 
 # Requirements
 Make sure you have installed latest version of **Python** and **Pip** on your computer
@@ -35,6 +35,12 @@ It will generate a graphviz dot diagram on `topic_name` and return like this,
     "output": "digraph {... diagram ...}"
 }
 ```
+
+# Team Members
+* Md. Ashraful Islam - imdashraful17@gmail.com
+* Zannatul Fedous Malih - zannatulferdousmaliha6@gmail.com
+* Md. Farhan Ishraq - farhanishraq777@gmail.com
+* Abrar Mahmud Hasan - abrarhasan2003@gmail.com
 
 # Special Thanks To #
 
