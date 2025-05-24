@@ -25,7 +25,11 @@ SECRET_KEY = 'django-insecure-b7+age(vqglea)rv-637kwqhu9(x!n88092++huh^ybd$b7e*y
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['*']
+
+TRUSTED_ORIGINS = [
+    'https://diagra-hjwi.onrender.com'
+]
 
 
 # Application definition
