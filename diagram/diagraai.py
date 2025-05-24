@@ -8,7 +8,7 @@ from crewai import Agent, Task, Crew
 
 llama3 = ChatGroq(temperature=0,
                   model="llama3-70b-8192",
-                  api_key="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")
+                  api_key="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")
 topic_explainer = Agent(
     role = "Senior Explainer",
     goal = """You will be prompted on a certain topic or subject 
