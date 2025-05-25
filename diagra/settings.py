@@ -57,10 +57,12 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-CORS_ALLOWED_ORIGINS = [
-    'http://localhost:5173',
-    'https://localhost:5173',
-]
+#CORS_ALLOWED_ORIGINS = [
+#    'http://localhost:5173',
+#    'https://localhost:5173',
+#]
+
+CORS_ALLOW_ALL_ORIGINS = True
 
 ROOT_URLCONF = 'diagra.urls'
 
